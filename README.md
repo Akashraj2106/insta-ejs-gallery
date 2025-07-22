@@ -1,6 +1,8 @@
-# 📸 Instagram Profile Clone
+# 📸 insta-ejs-gallery
 
-A visually appealing Instagram profile clone built using HTML, CSS, and optionally EJS for dynamic rendering. Supports dark mode, profile pictures, post galleries, and more!
+
+
+A visually appealing insta-ejs-gallery built using HTML, CSS, and optionally EJS for dynamic rendering. Supports dark mode, profile pictures, post galleries, and more!
 
 ---
 
@@ -25,13 +27,12 @@ A visually appealing Instagram profile clone built using HTML, CSS, and optional
 
 ![Dark Mode](screenshots/dark-mode.png)
 
-> 💡 Save your screenshots in the `/screenshots/` folder and update the image paths above.
 
 ---
 
 ## 🎥 Demo Video
 
-![Watch the demo](screenshots/video.mp4)
+![You can download demo video from here](screenshots/video.mp4)
 
 
 
@@ -51,8 +52,8 @@ A visually appealing Instagram profile clone built using HTML, CSS, and optional
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/instagram-profile-clone.git
-cd instagram-profile-clone
+git clone https://github.com/your-username/insta-ejs-gallery.git
+cd insta-ejs-gallery
 
 # Install dependencies
 npm install
@@ -66,8 +67,7 @@ http://localhost:8080/home/ig/username
 arduino
 Copy
 Edit
-instagram-profile-clone/
-│
+insta-ejs-gallery/│
 ├── public/
 │   ├── images/
 │   └── styles/
@@ -86,5 +86,3 @@ instagram-profile-clone/
 ❗ Error Page (404)
 When a user profile is not found, a friendly error message is shown using a custom error.ejs page.
 
-🙌 Contributing
-Pull requests are welcome! If you'd like to improve the UI, add more animations, or extend backend features — feel free to fork the repo and submit changes.
