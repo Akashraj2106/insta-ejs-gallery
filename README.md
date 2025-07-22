@@ -31,9 +31,9 @@ A visually appealing Instagram profile clone built using HTML, CSS, and optional
 
 ## 🎥 Demo Video
 
-[![Watch the demo](screenshot/video.mp4)
+![Watch the demo](screenshot/video.mp4)
 
-> Replace `YOUR_VIDEO_ID` with your uploaded YouTube video ID.
+
 
 ---
 
