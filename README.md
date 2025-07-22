@@ -31,7 +31,7 @@ A visually appealing Instagram profile clone built using HTML, CSS, and optional
 
 ## 🎥 Demo Video
 
-![Watch the demo](screenshot/video.mp4)
+![Watch the demo](screenshots/video.mp4)
 
 
 
