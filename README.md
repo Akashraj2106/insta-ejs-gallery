@@ -84,5 +84,5 @@ insta-ejs-gallery/│
 ├── data.json
 └── README.md
 ❗ Error Page (404)
-When a user profile is not found, a friendly error message is shown using a custom error.ejs page.
+When a user profile is not found, a friendly error message is shown using a custom error.ejs pages.
 
